@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: 名無し小屋
+title: Example Name
 url: http://example.com
